@@ -1,2 +1,2 @@
 # Hospial-Mangement-System
-Portfolio for skilll
+Portfolio for skill.
